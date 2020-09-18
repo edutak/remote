@@ -1,1 +1,2 @@
-# 원격저장소 활용
+# 원격저장소(remote repository) 활용
+
